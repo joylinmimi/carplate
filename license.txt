@@ -1,0 +1,1784 @@
+./license.txt
+./LocalTime[20180927200027783].jpg
+plate0: 10 results
+    - H3187	 confidence: 85.6789
+    - H31B7	 confidence: 78.5791
+    - H187	 confidence: 72.4829
+    - HS187	 confidence: 70.8744
+    - H387	 confidence: 68.5057
+    - R3187	 confidence: 68.296
+    - 3187	 confidence: 68.1979
+    - H1B7	 confidence: 65.3831
+    - HS1B7	 confidence: 63.7746
+    - H3B7	 confidence: 61.4059
+./LocalTime[20180927200049972].jpg
+No license plates found.
+./LocalTime[20180927200102285].jpg
+No license plates found.
+./LocalTime[20180927200113598].jpg
+plate0: 10 results
+    - 1TDF1ZE	 confidence: 86.7982
+    - 1TDF1Z	 confidence: 79.8424
+    - 1TDF1ZC	 confidence: 79.2977
+    - 1TDF12E	 confidence: 76.233
+    - 1TDP1ZE	 confidence: 75.9904
+    - 1TD1ZE	 confidence: 75.2345
+    - 1DF1ZE	 confidence: 74.9952
+    - 17DF1ZE	 confidence: 74.8982
+    - 1T0F1ZE	 confidence: 73.7015
+    - 1TBF1ZE	 confidence: 72.3582
+./LocalTime[20180927200152412].jpg
+plate0: 10 results
+    - 752EZ	 confidence: 88.6445
+    - 752E2	 confidence: 75.4404
+    - 7S2EZ	 confidence: 72.1968
+    - 7B2EZ	 confidence: 71.932
+    - 72EZ	 confidence: 71.4529
+    - 752Ez	 confidence: 70.5636
+    - 752E	 confidence: 67.848
+    - 7S2E2	 confidence: 58.9928
+    - 7B2E2	 confidence: 58.728
+    - 72E2	 confidence: 58.2489
+./LocalTime[20180927200200131].jpg
+plate0: 10 results
+    - TDH5B68	 confidence: 91.686
+    - TDH5868	 confidence: 89.3022
+    - TDHSB68	 confidence: 83.9288
+    - TDHB68	 confidence: 83.489
+    - TDH5B6B	 confidence: 82.8345
+    - TDHBB68	 confidence: 82.2972
+    - TDHS868	 confidence: 81.5451
+    - TDH868	 confidence: 81.1052
+    - TDH586B	 confidence: 80.4507
+    - TDHB868	 confidence: 79.9135
+./LocalTime[20180927200212475].jpg
+plate0: 10 results
+    - D020	 confidence: 89.8075
+    - 0020	 confidence: 77.1227
+    - DD20	 confidence: 76.5313
+    - D02D	 confidence: 75.1497
+    - D0Z0	 confidence: 73.3959
+    - DG20	 confidence: 72.6756
+    - DQ20	 confidence: 72.6295
+    - D02Q	 confidence: 72.5051
+    - D02G	 confidence: 72.2371
+    - G020	 confidence: 71.5065
+plate1: 10 results
+    - TDF832	 confidence: 92.9311
+    - TDF83Z	 confidence: 90.5817
+    - TDFB32	 confidence: 84.1295
+    - TDFB3Z	 confidence: 81.7801
+    - TDFS32	 confidence: 80.2697
+    - T0F832	 confidence: 80.0118
+    - TBF832	 confidence: 78.7363
+    - TDF32	 confidence: 78.0349
+    - TDFS3Z	 confidence: 77.9203
+    - T0F83Z	 confidence: 77.6624
+./LocalTime[20180927200217069].jpg
+No license plates found.
+./LocalTime[20180927200252945].jpg
+plate0: 10 results
+    - 752EZ	 confidence: 90.6184
+    - 752E2	 confidence: 78.1248
+    - 752Ez	 confidence: 75.9617
+    - 752BZ	 confidence: 73.5014
+    - 752Z	 confidence: 72.9945
+    - 752E	 confidence: 71.668
+    - 752B2	 confidence: 61.0079
+    - 7522	 confidence: 60.501
+    - 752Bz	 confidence: 58.8447
+    - 752z	 confidence: 58.3378
+plate1: 10 results
+    - 17W1	 confidence: 77.7076
+    - 1W1D	 confidence: 73.0235
+    - E1W1	 confidence: 71.8581
+    - 1W10	 confidence: 71.6778
+    - 1W1R	 confidence: 71.2934
+    - 1W1B	 confidence: 70.7434
+    - C1W1	 confidence: 69.0018
+    - B1W1	 confidence: 68.7518
+    - 51W1	 confidence: 68.3077
+    - I1W1	 confidence: 68.2381
+./LocalTime[20180927200356057].jpg
+No license plates found.
+./LocalTime[20180927200445294].jpg
+plate0: 10 results
+    - 088L2	 confidence: 90.7053
+    - 018L2	 confidence: 85.5885
+    - 0B8L2	 confidence: 85.0161
+    - 08L2	 confidence: 84.1833
+    - 0G8L2	 confidence: 82.269
+    - 0S8L2	 confidence: 82.0035
+    - 0Q8L2	 confidence: 81.6306
+    - 0D8L2	 confidence: 81.4325
+    - 0U8L2	 confidence: 81.2263
+    - 08BL2	 confidence: 80.7177
+./LocalTime[20180927200548484].jpg
+plate0: 10 results
+    - TDF583Z	 confidence: 88.5689
+    - TDF5832	 confidence: 88.1428
+    - TDF5837	 confidence: 84.9159
+    - TDF5B3Z	 confidence: 78.5039
+    - TDF5B32	 confidence: 78.0778
+    - TDFS83Z	 confidence: 77.0241
+    - IDF583Z	 confidence: 76.9172
+    - DF583Z	 confidence: 76.9014
+    - TDF83Z	 confidence: 76.8837
+    - TDFS832	 confidence: 76.5981
+plate1: 10 results
+    - 0909D	 confidence: 92.0461
+    - 0S09D	 confidence: 82.2463
+    - 090SD	 confidence: 82.1785
+    - 09D9D	 confidence: 80.6768
+    - 090BD	 confidence: 80.6144
+    - 09090	 confidence: 80.3769
+    - 0B09D	 confidence: 79.8232
+    - D909D	 confidence: 78.8942
+    - 0909B	 confidence: 78.2844
+    - 090D	 confidence: 78.0389
+./LocalTime[20180927200557422].jpg
+No license plates found.
+./LocalTime[20180927200658690].jpg
+No license plates found.
+./LocalTime[20180927200729800].jpg
+plate0: 10 results
+    - DA157	 confidence: 91.8445
+    - 0A157	 confidence: 80.2612
+    - DA1S7	 confidence: 78.0038
+    - BA157	 confidence: 77.8008
+    - DA17	 confidence: 74.9902
+    - QA157	 confidence: 73.3969
+    - A157	 confidence: 71.7653
+    - 0A1S7	 confidence: 66.4205
+    - BA1S7	 confidence: 63.9601
+    - 0A17	 confidence: 63.4069
+./LocalTime[20180927200901117].jpg
+plate0: 10 results
+    - 1DD79	 confidence: 89.5477
+    - 10D79	 confidence: 77.6413
+    - DD79	 confidence: 77.0941
+    - TDD79	 confidence: 76.1776
+    - 1BD79	 confidence: 75.7892
+    - 1QD79	 confidence: 71.2624
+    - 0D79	 confidence: 65.1877
+    - T0D79	 confidence: 64.2712
+    - BD79	 confidence: 63.3356
+    - TBD79	 confidence: 62.4191
+plate1: 10 results
+    - 272E61	 confidence: 88.2211
+    - 272E6	 confidence: 79.9158
+    - 272EB1	 confidence: 78.7905
+    - 272ES1	 confidence: 77.8628
+    - 272EG1	 confidence: 76.4672
+    - 272561	 confidence: 74.0366
+    - 272E1	 confidence: 73.0465
+    - 27261	 confidence: 73.0309
+    - 272EB	 confidence: 70.4853
+    - 272ES	 confidence: 69.5575
+./LocalTime[20180927200918867].jpg
+plate0: 10 results
+    - 752EZ	 confidence: 90.7237
+    - 752E2	 confidence: 77.5723
+    - 75ZEZ	 confidence: 75.5957
+    - 7S2EZ	 confidence: 74.5877
+    - 72EZ	 confidence: 74.0401
+    - 752Ez	 confidence: 72.4343
+    - 75ZE2	 confidence: 62.4444
+    - 7S2E2	 confidence: 61.4363
+    - 72E2	 confidence: 60.8887
+    - 7SZEZ	 confidence: 59.4597
+./LocalTime[20180927200919633].jpg
+plate0: 10 results
+    - 0083G	 confidence: 88.5851
+    - 0D83G	 confidence: 85.2665
+    - 008G	 confidence: 84.9062
+    - 0D8G	 confidence: 81.5876
+    - 0B83G	 confidence: 78.5856
+    - 008SG	 confidence: 78.4229
+    - 008BG	 confidence: 77.8859
+    - 0Q83G	 confidence: 77.8366
+    - 00B3G	 confidence: 77.4248
+    - D083G	 confidence: 75.9768
+./LocalTime[20180927200954228].jpg
+plate0: 10 results
+    - 00B3G	 confidence: 88.4483
+    - 0083G	 confidence: 84.7195
+    - D0B3G	 confidence: 84.4381
+    - D083G	 confidence: 80.7093
+    - 00B3	 confidence: 79.2455
+    - Q0B3G	 confidence: 78.2445
+    - B0B3G	 confidence: 76.5775
+    - G0B3G	 confidence: 76.5586
+    - 00B36	 confidence: 76.4597
+    - 0083	 confidence: 75.5167
+./LocalTime[20180927201951545].jpg
+plate0: 10 results
+    - 558K2	 confidence: 87.5165
+    - 55BK2	 confidence: 84.2815
+    - 555K2	 confidence: 82.1904
+    - 55SK2	 confidence: 78.6393
+    - 55K2	 confidence: 76.8711
+    - 5B8K2	 confidence: 72.6328
+    - 5S8K2	 confidence: 72.4717
+    - 58K2	 confidence: 72.2429
+    - 5BBK2	 confidence: 69.3979
+    - 5SBK2	 confidence: 69.2368
+./LocalTime[20180927202110553].jpg
+plate0: 10 results
+    - 1Z10	 confidence: 93.0401
+    - 1210	 confidence: 86.7053
+    - 1Z1D	 confidence: 85.7534
+    - 121D	 confidence: 79.4186
+    - 1Z00	 confidence: 77.7199
+    - 1Z1Q	 confidence: 75.4604
+    - 1Z1B	 confidence: 74.6751
+    - 1ZD0	 confidence: 72.232
+    - 1200	 confidence: 71.385
+    - 1ZB0	 confidence: 70.5931
+./LocalTime[20180927202135050].jpg
+No license plates found.
+./LocalTime[20180928095750737].jpg
+plate0: 10 results
+    - TDA86	 confidence: 85.9158
+    - DA86	 confidence: 77.2195
+    - TDAB6	 confidence: 74.1796
+    - TD86	 confidence: 71.9458
+    - TBA86	 confidence: 69.8442
+    - T0A86	 confidence: 69.121
+    - DAB6	 confidence: 65.4833
+    - TA86	 confidence: 63.667
+    - BA86	 confidence: 61.1478
+    - 0A86	 confidence: 60.4247
+./LocalTime[20180928095814504]_0.jpg
+No license plates found.
+./LocalTime[20180928095837520].jpg
+plate0: 10 results
+    - 132NT	 confidence: 87.3877
+    - 32NT	 confidence: 82.1352
+    - D32NT	 confidence: 80.096
+    - B32NT	 confidence: 77.8651
+    - 032NT	 confidence: 77.8486
+    - Q32NT	 confidence: 77.168
+    - R32NT	 confidence: 76.3394
+    - 12NT	 confidence: 74.5195
+    - 1B2NT	 confidence: 70.8467
+    - 1S2NT	 confidence: 70.7424
+plate1: 10 results
+    - 7M39B	 confidence: 86.1849
+    - 7H39B	 confidence: 85.5123
+    - 739B	 confidence: 82.9168
+    - 7N39B	 confidence: 79.4616
+    - 7M398	 confidence: 75.3994
+    - 7H398	 confidence: 74.7268
+    - 7398	 confidence: 72.1313
+    - 7M3BB	 confidence: 69.1338
+    - 7M3SB	 confidence: 68.9028
+    - 7M39D	 confidence: 68.7018
+plate2: 10 results
+    - 1017	 confidence: 87.8533
+    - G1017	 confidence: 82.7157
+    - B1017	 confidence: 75.6014
+    - 1D17	 confidence: 75.5472
+    - 61017	 confidence: 75.3
+    - Q1017	 confidence: 74.3113
+    - 1Q17	 confidence: 73.7185
+    - 1B17	 confidence: 72.2039
+    - 1G17	 confidence: 71.6893
+    - G1D17	 confidence: 70.4096
+./LocalTime[20180928095910694].jpg
+plate0: 10 results
+    - 3DBE	 confidence: 82.8402
+    - 3DB1	 confidence: 82.1399
+    - 3DBI	 confidence: 81.1966
+    - 3D8E	 confidence: 65.0863
+    - 3D81	 confidence: 64.386
+    - 3D8I	 confidence: 63.4427
+    - 30BE	 confidence: 57.1397
+    - 30B1	 confidence: 56.4394
+    - 30BI	 confidence: 55.4961
+    - 3BBE	 confidence: 53.2299
+./LocalTime[20180928095952383].jpg
+plate0: 10 results
+    - 11BR	 confidence: 79.3096
+    - 11BB	 confidence: 75.2202
+    - 11DR	 confidence: 74.8946
+    - 11B8	 confidence: 74.8048
+    - 11]R	 confidence: 74.4258
+    - 110R	 confidence: 74.3471
+    - 11]BR	 confidence: 74.247
+    - 111R	 confidence: 74.1008
+    - 111BR	 confidence: 73.922
+    - 11QR	 confidence: 71.277
+plate1: 10 results
+    - GZ159	 confidence: 88.8087
+    - Z159	 confidence: 77.7691
+    - 6Z159	 confidence: 77.5935
+    - G2159	 confidence: 77.4613
+    - GZ1S9	 confidence: 75.2332
+    - GZ1B9	 confidence: 71.2807
+    - GZ19	 confidence: 70.5846
+    - 2159	 confidence: 66.4217
+    - 62159	 confidence: 66.2461
+    - Z1S9	 confidence: 64.1936
+./LocalTime[20180928100115371].jpg
+plate0: 10 results
+    - TDA8076	 confidence: 91.9507
+    - TDAB076	 confidence: 88.781
+    - TDA8D76	 confidence: 88.7503
+    - TDA8B76	 confidence: 87.7639
+    - TDA8Q76	 confidence: 87.6899
+    - T1A8076	 confidence: 85.7801
+    - TDABD76	 confidence: 85.5806
+    - TDABB76	 confidence: 84.5943
+    - TDABQ76	 confidence: 84.5202
+    - TBA8076	 confidence: 83.4479
+plate1: 4 results
+    - AGE961	 confidence: 89.0276
+    - A6E961	 confidence: 79.3574
+    - ABE961	 confidence: 75.1535
+    - AE961	 confidence: 73.7718
+plate2: 10 results
+    - TDD0B	 confidence: 89.9675
+    - TDDDB	 confidence: 89.4917
+    - TDD1B	 confidence: 86.3461
+    - TDD08	 confidence: 86.2317
+    - TDDD8	 confidence: 85.756
+    - TDDBB	 confidence: 84.1021
+    - TDDQB	 confidence: 83.6627
+    - TDD18	 confidence: 82.6104
+    - TDDB8	 confidence: 80.3664
+    - TDDQ8	 confidence: 79.9269
+plate3: 10 results
+    - TDH3606	 confidence: 91.3598
+    - TDH3616	 confidence: 86.3707
+    - TDH36D6	 confidence: 86.2584
+    - TDH36Q6	 confidence: 84.8064
+    - TDH36B6	 confidence: 84.7921
+    - T0H3606	 confidence: 82.5188
+    - TBH3606	 confidence: 80.7063
+    - TDR3606	 confidence: 78.7371
+    - T0H3616	 confidence: 77.5297
+    - T0H36D6	 confidence: 77.4174
+./LocalTime[20180928101107191].jpg
+plate0: 10 results
+    - 202K3	 confidence: 89.0597
+    - 202K	 confidence: 83.2119
+    - 202KB	 confidence: 78.3729
+    - 202KS	 confidence: 78.1203
+    - 2D2K3	 confidence: 76.841
+    - 20ZK3	 confidence: 75.8465
+    - 2Q2K3	 confidence: 73.0852
+    - 2D2K	 confidence: 70.9932
+    - 2U2K3	 confidence: 70.7997
+    - 2B2K3	 confidence: 70.7703
+plate1: 10 results
+    - 15137C	 confidence: 85.8709
+    - 5137C	 confidence: 83.5823
+    - 1537C	 confidence: 80.5604
+    - 537C	 confidence: 78.2718
+    - 15T37C	 confidence: 75.7213
+    - 15I37C	 confidence: 75.4759
+    - 1517C	 confidence: 74.5045
+    - 15137c	 confidence: 73.7748
+    - 5T37C	 confidence: 73.4327
+    - 151S7C	 confidence: 73.3017
+./LocalTime[20180928101411261].jpg
+plate0: 10 results
+    - 1293G	 confidence: 83.1282
+    - 1293	 confidence: 77.9421
+    - 293G	 confidence: 75.5861
+    - 129G	 confidence: 74.9521
+    - I293G	 confidence: 74.105
+    - 1293B	 confidence: 71.226
+    - 12936	 confidence: 70.8867
+    - 129BG	 confidence: 70.7762
+    - 129SG	 confidence: 70.2252
+    - 12S3G	 confidence: 70.2194
+plate1: 10 results
+    - 695L2	 confidence: 89.3358
+    - 6B5L2	 confidence: 80.5358
+    - 6Q5L2	 confidence: 80.0384
+    - B95L2	 confidence: 79.4408
+    - 6S5L2	 confidence: 78.7727
+    - 65L2	 confidence: 75.7522
+    - S95L2	 confidence: 75.6115
+    - G95L2	 confidence: 74.7764
+    - 95L2	 confidence: 73.326
+    - BB5L2	 confidence: 70.6408
+plate2: 10 results
+    - TAR920	 confidence: 89.3743
+    - TAR9Z0	 confidence: 86.5776
+    - TA920	 confidence: 79.8076
+    - TAB920	 confidence: 79.3924
+    - TA8920	 confidence: 79.2426
+    - TAR92D	 confidence: 78.3387
+    - TA9Z0	 confidence: 77.0109
+    - TAB9Z0	 confidence: 76.5957
+    - TA89Z0	 confidence: 76.4459
+    - TAR92B	 confidence: 76.2292
+./LocalTime[20180928101423340].jpg
+No license plates found.
+./LocalTime[20180928101447982]_0.jpg
+No license plates found.
+./LocalTime[20180928103005159].jpg
+plate0: 10 results
+    - H51B5	 confidence: 88.3915
+    - H5185	 confidence: 78.0037
+    - H1B5	 confidence: 77.4122
+    - HS1B5	 confidence: 77.2546
+    - H51BS	 confidence: 76.1056
+    - HB1B5	 confidence: 74.9308
+    - H51BB	 confidence: 74.7332
+    - H51B	 confidence: 72.1903
+    - H51Q5	 confidence: 72.1261
+    - H515	 confidence: 70.7846
+./LocalTime[20180928103058521].jpg
+plate0: 10 results
+    - 1DE07	 confidence: 92.638
+    - 0DE07	 confidence: 86.98
+    - DE07	 confidence: 85.9153
+    - DDE07	 confidence: 85.2401
+    - BDE07	 confidence: 84.9437
+    - QDE07	 confidence: 84.3698
+    - 1DED7	 confidence: 82.3828
+    - 10E07	 confidence: 79.8171
+    - 1DEQ7	 confidence: 79.3326
+    - 1DEB7	 confidence: 79.2476
+./LocalTime[20180928103110474].jpg
+plate0: 10 results
+    - TD5965	 confidence: 88.7314
+    - TD596S	 confidence: 83.185
+    - TD596B	 confidence: 81.8044
+    - TD596	 confidence: 81.6701
+    - TB5965	 confidence: 77.8321
+    - TDS965	 confidence: 77.1516
+    - T05965	 confidence: 74.636
+    - TD965	 confidence: 74.4332
+    - T5965	 confidence: 72.9852
+    - TB596S	 confidence: 72.2856
+plate1: 10 results
+    - TD093	 confidence: 90.6572
+    - TDD93	 confidence: 80.1945
+    - TB093	 confidence: 77.7048
+    - TDQ93	 confidence: 77.379
+    - TDB93	 confidence: 77.2275
+    - T0093	 confidence: 76.5324
+    - TDU93	 confidence: 74.4614
+    - TDG93	 confidence: 72.4337
+    - TD93	 confidence: 70.492
+    - TBD93	 confidence: 67.2421
+plate2: 10 results
+    - TDE07Z5	 confidence: 94.4107
+    - TDED7Z5	 confidence: 87.273
+    - TDE0725	 confidence: 87.0254
+    - TDEQ7Z5	 confidence: 85.1412
+    - TDEB7Z5	 confidence: 84.9326
+    - TDE07ZS	 confidence: 83.7562
+    - TDEU7Z5	 confidence: 83.5706
+    - T0E07Z5	 confidence: 83.4813
+    - TBE07Z5	 confidence: 81.8275
+    - TDED725	 confidence: 79.8876
+./LocalTime[20180928103329975].jpg
+plate0: 10 results
+    - TAT05D	 confidence: 87.8567
+    - TAT050	 confidence: 85.1935
+    - TAT0SD	 confidence: 80.3502
+    - TAT05B	 confidence: 79.3017
+    - TAT05Q	 confidence: 78.82
+    - TAT0D	 confidence: 78.5787
+    - TAT0BD	 confidence: 78.1914
+    - TATD5D	 confidence: 77.7672
+    - TAT0S0	 confidence: 77.687
+    - TA05D	 confidence: 76.0593
+./LocalTime[20180928103402336].jpg
+plate0: 10 results
+    - 82K3	 confidence: 80.4779
+    - 62K3	 confidence: 79.5226
+    - G2K3	 confidence: 78.7551
+    - 482K3	 confidence: 76.8984
+    - 8ZK3	 confidence: 76.6522
+    - S2K3	 confidence: 75.9826
+    - 462K3	 confidence: 75.943
+    - B2K3	 confidence: 75.7693
+    - 6ZK3	 confidence: 75.6968
+    - 4G2K3	 confidence: 75.1756
+plate1: 10 results
+    - 755LH	 confidence: 86.4304
+    - 755L	 confidence: 84.4617
+    - 755LR	 confidence: 80.1258
+    - 755L1	 confidence: 78.422
+    - 755H	 confidence: 76.7122
+    - 55LH	 confidence: 71.1865
+    - 755R	 confidence: 70.4076
+    - 755DH	 confidence: 68.9053
+    - 7551	 confidence: 68.7037
+    - 755UH	 confidence: 68.0303
+plate2: 1 results
+    - TAT1	 confidence: 87.9134
+./LocalTime[20180928103418071].jpg
+plate0: 10 results
+    - 452K3	 confidence: 84.2873
+    - 4B2K3	 confidence: 79.4807
+    - 482K3	 confidence: 77.9005
+    - 4G2K3	 confidence: 76.4344
+    - 4S2K3	 confidence: 76.1305
+    - 52K3	 confidence: 73.3553
+    - 42K3	 confidence: 71.6837
+    - 452K	 confidence: 69.3762
+    - 452KS	 confidence: 69.0372
+    - B2K3	 confidence: 68.5487
+plate1: 10 results
+    - 1755LM	 confidence: 86.4594
+    - 1755LH	 confidence: 79.5996
+    - 755LM	 confidence: 78.8324
+    - 1755L	 confidence: 78.4075
+    - 1755LR	 confidence: 76.8923
+    - 1755LN	 confidence: 76.628
+    - 1T55LM	 confidence: 76.2922
+    - 155LM	 confidence: 75.2155
+    - 755LH	 confidence: 71.9726
+    - 175LM	 confidence: 71.4735
+./LocalTime[20180928103536496].jpg
+plate0: 4 results
+    - 191391	 confidence: 89.0543
+    - W91391	 confidence: 71.8947
+    - 91391	 confidence: 71.5866
+    - D91391	 confidence: 71.503
+./LocalTime[20180928103627904].jpg
+plate0: 10 results
+    - 735NB	 confidence: 85.6143
+    - 75NB	 confidence: 80.2286
+    - 735N8	 confidence: 75.8571
+    - 73GNB	 confidence: 75.7975
+    - 73BNB	 confidence: 75.4794
+    - 7S5NB	 confidence: 75.1959
+    - 73SNB	 confidence: 74.2482
+    - 7Q5NB	 confidence: 73.4478
+    - 735RB	 confidence: 73.4277
+    - 735HB	 confidence: 72.1916
+plate1: 10 results
+    - T1D9139	 confidence: 88.2472
+    - TDD9139	 confidence: 83.4132
+    - 1D9139	 confidence: 80.0352
+    - TBD9139	 confidence: 79.3951
+    - T109139	 confidence: 78.3336
+    - TD9139	 confidence: 78.2833
+    - T19139	 confidence: 77.1743
+    - T1B9139	 confidence: 76.866
+    - DD9139	 confidence: 75.2011
+    - T1Q9139	 confidence: 74.5779
+plate2: 10 results
+    - 10BA5	 confidence: 84.7608
+    - 10B1A5	 confidence: 82.3947
+    - 0BA5	 confidence: 81.4535
+    - 0B1A5	 confidence: 79.0874
+    - 108A5	 confidence: 74.0557
+    - 1DBA5	 confidence: 72.0392
+    - 1081A5	 confidence: 71.6896
+    - 08A5	 confidence: 70.7483
+    - 1QBA5	 confidence: 70.3465
+    - 10BAB	 confidence: 69.8996
+plate3: 10 results
+    - 801L6	 confidence: 88.8448
+    - 80L6	 confidence: 88.0546
+    - B01L6	 confidence: 84.6949
+    - 80LL6	 confidence: 84.043
+    - B0L6	 confidence: 83.9047
+    - 501L6	 confidence: 81.9938
+    - 50L6	 confidence: 81.2036
+    - B0LL6	 confidence: 79.8932
+    - S01L6	 confidence: 79.2503
+    - S0L6	 confidence: 78.4601
+./LocalTime[20180928103702984].jpg
+plate0: 10 results
+    - HDD9	 confidence: 86.1693
+    - HBD9	 confidence: 78.5706
+    - HED9	 confidence: 77.133
+    - HD09	 confidence: 71.3177
+    - RDD9	 confidence: 68.9484
+    - MDD9	 confidence: 68.89
+    - NDD9	 confidence: 68.3303
+    - DDD9	 confidence: 67.8082
+    - HDQ9	 confidence: 67.028
+    - 0DD9	 confidence: 65.7625
+plate1: 10 results
+    - 0B1A5	 confidence: 85.0825
+    - 0BA5	 confidence: 82.7918
+    - 081A5	 confidence: 82.0995
+    - 0BWA5	 confidence: 80.3442
+    - 08A5	 confidence: 79.8087
+    - 08WA5	 confidence: 77.3611
+    - 0Q1A5	 confidence: 72.1847
+    - DB1A5	 confidence: 71.6665
+    - 01A5	 confidence: 71.4544
+    - 0G1A5	 confidence: 70.3535
+./LocalTime[20180928103835128].jpg
+plate0: 10 results
+    - 3705G	 confidence: 87.771
+    - 705G	 confidence: 77.2501
+    - 37056	 confidence: 75.4219
+    - B705G	 confidence: 75.3032
+    - 37D5G	 confidence: 75.2341
+    - 3705Q	 confidence: 73.6928
+    - 37Q5G	 confidence: 73.3854
+    - 3705	 confidence: 72.3158
+    - 37G5G	 confidence: 72.0359
+    - 370SG	 confidence: 71.0072
+plate1: 10 results
+    - 6BB8	 confidence: 85.4932
+    - 6BBB	 confidence: 83.6206
+    - BBB8	 confidence: 81.2651
+    - 68B8	 confidence: 80.2834
+    - BBBB	 confidence: 79.3925
+    - GBB8	 confidence: 79.2577
+    - 68BB	 confidence: 78.4108
+    - GBBB	 confidence: 77.3851
+    - SBB8	 confidence: 76.9083
+    - B8B8	 confidence: 76.0553
+plate2: 3 results
+    - TDA7313	 confidence: 91.8343
+    - TBA7313	 confidence: 79.9159
+    - T0A7313	 confidence: 78.6985
+./LocalTime[20180928104008116].jpg
+plate0: 10 results
+    - TDA93ZB	 confidence: 91.7988
+    - TDA932B	 confidence: 88.8832
+    - TDA93Z8	 confidence: 82.9054
+    - TBA93ZB	 confidence: 80.6144
+    - TDA9328	 confidence: 79.9898
+    - T0A93ZB	 confidence: 79.721
+    - TBA932B	 confidence: 77.6987
+    - T0A932B	 confidence: 76.8054
+    - TBA93Z8	 confidence: 71.721
+    - T0A93Z8	 confidence: 70.8277
+./LocalTime[20180928104124494].jpg
+plate0: 10 results
+    - A6089	 confidence: 89.5361
+    - A60B9	 confidence: 84.966
+    - A6D89	 confidence: 75.5667
+    - A6B89	 confidence: 72.9232
+    - A6Q89	 confidence: 72.6723
+    - A6DB9	 confidence: 70.9965
+    - A6G89	 confidence: 69.5907
+    - A6BB9	 confidence: 68.353
+    - A6QB9	 confidence: 68.1021
+    - A689	 confidence: 66.5086
+plate1: 6 results
+    - E3723	 confidence: 88.5555
+    - E37Z3	 confidence: 84.2056
+    - 53723	 confidence: 73.6193
+    - 3723	 confidence: 73.4828
+    - 537Z3	 confidence: 69.2694
+    - 37Z3	 confidence: 69.1329
+./LocalTime[20180928104437721].jpg
+plate0: 10 results
+    - TDF96Z3	 confidence: 88.6911
+    - TDF9623	 confidence: 85.8472
+    - T0F96Z3	 confidence: 79.728
+    - TDP96Z3	 confidence: 78.4381
+    - TBF96Z3	 confidence: 78.2977
+    - TD96Z3	 confidence: 78.0548
+    - T0F9623	 confidence: 76.8841
+    - TDP9623	 confidence: 75.5942
+    - TBF9623	 confidence: 75.4537
+    - TD9623	 confidence: 75.2109
+./LocalTime[20180928104815511].jpg
+plate0: 10 results
+    - B40K3	 confidence: 84.1333
+    - 40K3	 confidence: 82.4603
+    - R40K3	 confidence: 79.125
+    - B0K3	 confidence: 78.3268
+    - 840K3	 confidence: 77.4194
+    - S40K3	 confidence: 76.7661
+    - 540K3	 confidence: 75.7342
+    - R0K3	 confidence: 73.3185
+    - 80K3	 confidence: 71.613
+    - S0K3	 confidence: 70.9596
+plate1: 10 results
+    - 55788	 confidence: 87.6642
+    - 551788	 confidence: 84.8587
+    - 5578B	 confidence: 78.308
+    - S5788	 confidence: 76.727
+    - 55178B	 confidence: 75.5025
+    - S51788	 confidence: 73.9215
+    - 557B8	 confidence: 73.7299
+    - 5788	 confidence: 73.1022
+    - B5788	 confidence: 72.8435
+    - 5S788	 confidence: 71.1931
+plate2: 10 results
+    - 3B5L5	 confidence: 89.9941
+    - 385L5	 confidence: 85.6727
+    - B5L5	 confidence: 79.8374
+    - 3B55	 confidence: 79.1666
+    - SB5L5	 confidence: 77.1194
+    - BB5L5	 confidence: 76.9148
+    - 3B5U5	 confidence: 75.8248
+    - 85L5	 confidence: 75.516
+    - 3855	 confidence: 74.8452
+    - 3B5D5	 confidence: 74.5536
+./LocalTime[20180928105100283].jpg
+plate0: 10 results
+    - 385L5	 confidence: 88.1507
+    - 3855	 confidence: 79.4013
+    - 3B5L5	 confidence: 76.7245
+    - 38SL5	 confidence: 74.5433
+    - 385U5	 confidence: 74.4595
+    - 38505	 confidence: 73.4381
+    - 385D5	 confidence: 72.7329
+    - 385B5	 confidence: 72.4885
+    - 385LS	 confidence: 72.0218
+    - 38GL5	 confidence: 71.6358
+plate1: 10 results
+    - BB9H	 confidence: 84.2228
+    - BB9H7	 confidence: 84.0005
+    - 8B9H	 confidence: 80.0105
+    - 8B9H7	 confidence: 79.7882
+    - BB9HT	 confidence: 78.0452
+    - BBSH	 confidence: 74.1679
+    - BBSH7	 confidence: 73.9456
+    - 8B9HT	 confidence: 73.8329
+    - B89H	 confidence: 72.9112
+    - B89H7	 confidence: 72.6889
+./LocalTime[20180928105145535].jpg
+plate0: 10 results
+    - 3B5L5	 confidence: 87.2685
+    - 3BL5	 confidence: 77.8164
+    - 3BSL5	 confidence: 77.3793
+    - 385L5	 confidence: 77.3085
+    - 3BBL5	 confidence: 76.4923
+    - 3B5LS	 confidence: 70.7855
+    - 3B5L	 confidence: 70.2803
+    - 38L5	 confidence: 67.8564
+    - 38SL5	 confidence: 67.4193
+    - 38BL5	 confidence: 66.5323
+plate1: 10 results
+    - BB9H7	 confidence: 87.5306
+    - 8B9H7	 confidence: 83.2667
+    - B89H7	 confidence: 76.6747
+    - BBSH7	 confidence: 76.352
+    - BB9H	 confidence: 75.783
+    - BBBH7	 confidence: 74.9309
+    - BB9HY	 confidence: 74.0416
+    - BB9R7	 confidence: 73.4176
+    - DB9H7	 confidence: 73.241
+    - QB9H7	 confidence: 73.033
+./LocalTime[20180928105409165]_0.jpg
+No license plates found.
+./LocalTime[20180928105746346].jpg
+plate0: 6 results
+    - 78K2	 confidence: 86.0736
+    - 28K2	 confidence: 81.5932
+    - Z8K2	 confidence: 77.2136
+    - 7BK2	 confidence: 72.376
+    - 2BK2	 confidence: 67.8956
+    - ZBK2	 confidence: 63.516
+./LocalTime[20180928105807331].jpg
+plate0: 10 results
+    - 11792G	 confidence: 81.8226
+    - 1792G	 confidence: 79.8512
+    - 117S2G	 confidence: 78.8912
+    - 1192G	 confidence: 77.007
+    - 17S2G	 confidence: 76.9198
+    - 1B792G	 confidence: 76.1053
+    - 192G	 confidence: 75.0356
+    - 11S2G	 confidence: 74.0756
+    - 1D792G	 confidence: 73.9931
+    - 10792G	 confidence: 73.5595
+plate1: 10 results
+    - 8K21	 confidence: 85.5962
+    - 28K21	 confidence: 81.6254
+    - BK21	 confidence: 81.2196
+    - 2BK21	 confidence: 77.2487
+    - D8K21	 confidence: 75.6001
+    - 98K21	 confidence: 75.3202
+    - QK21	 confidence: 73.8196
+    - GK21	 confidence: 71.3024
+    - DBK21	 confidence: 71.2234
+    - SK21	 confidence: 71.042
+plate2: 10 results
+    - F861	 confidence: 81.3272
+    - F186	 confidence: 78.5417
+    - FB61	 confidence: 69.6088
+    - F1B6	 confidence: 66.8233
+    - F1861	 confidence: 66.5587
+    - P861	 confidence: 65.6539
+    - E861	 confidence: 64.3764
+    - P186	 confidence: 62.8685
+    - E186	 confidence: 61.591
+    - 1861	 confidence: 57.3044
+./LocalTime[20180928105949710].jpg
+plate0: 10 results
+    - 80DZ	 confidence: 85.0674
+    - 800Z	 confidence: 78.4698
+    - B0DZ	 confidence: 78.2574
+    - 80BZ	 confidence: 77.377
+    - 80QZ	 confidence: 76.2403
+    - 80UZ	 confidence: 74.8562
+    - 80GZ	 confidence: 74.5842
+    - B00Z	 confidence: 71.6597
+    - B0BZ	 confidence: 70.5669
+    - 8DDZ	 confidence: 69.5619
+plate1: 10 results
+    - TBE605	 confidence: 89.4031
+    - TBE60S	 confidence: 80.3945
+    - TBE6D5	 confidence: 80.2665
+    - TB605	 confidence: 79.8453
+    - TBE60B	 confidence: 79.5383
+    - TBE6Q5	 confidence: 78.498
+    - T8E605	 confidence: 78.0044
+    - TBE6B5	 confidence: 77.8219
+    - TBB605	 confidence: 77.6312
+    - TBE6G5	 confidence: 77.6142
+./LocalTime[20180928110017602].jpg
+plate0: 10 results
+    - TB605	 confidence: 86.7072
+    - T8605	 confidence: 75.6946
+    - TB60S	 confidence: 75.5474
+    - TB6D5	 confidence: 74.8413
+    - B605	 confidence: 73.1762
+    - TB6Q5	 confidence: 73.1063
+    - IB605	 confidence: 72.0396
+    - TB60	 confidence: 71.788
+    - TR605	 confidence: 70.8864
+    - T605	 confidence: 70.8647
+plate1: 10 results
+    - 4218D	 confidence: 89.2343
+    - 421BD	 confidence: 85.1472
+    - 428D	 confidence: 84.0302
+    - 42T8D	 confidence: 80.8758
+    - 42BD	 confidence: 79.9431
+    - 42TBD	 confidence: 76.7887
+    - 42180	 confidence: 76.4502
+    - 421QD	 confidence: 74.1906
+    - 4218B	 confidence: 74.0783
+    - 421D	 confidence: 73.9388
+./LocalTime[20180928110158731].jpg
+plate0: 10 results
+    - DD7937	 confidence: 85.8108
+    - BD7937	 confidence: 83.0442
+    - HDD7937	 confidence: 82.7402
+    - D7937	 confidence: 82.6388
+    - RDD7937	 confidence: 82.2098
+    - 8D7937	 confidence: 81.866
+    - DD937	 confidence: 81.7878
+    - HBD7937	 confidence: 79.9736
+    - HD7937	 confidence: 79.5682
+    - RBD7937	 confidence: 79.4432
+./LocalTime[20180928110341767].jpg
+No license plates found.
+./LocalTime[20180928110957328].jpg
+plate0: 10 results
+    - 1806D	 confidence: 90.8676
+    - 1B06D	 confidence: 85.4412
+    - 180SD	 confidence: 81.3778
+    - 180BD	 confidence: 81.1013
+    - 180GD	 confidence: 79.0898
+    - 18060	 confidence: 78.6085
+    - 18D6D	 confidence: 77.5195
+    - 806D	 confidence: 76.4474
+    - 1806B	 confidence: 76.4248
+    - 1B0SD	 confidence: 75.9514
+./LocalTime[20180928111259492]_0.jpg
+plate0: 10 results
+    - 1B16D	 confidence: 90.9617
+    - B16D	 confidence: 84.2667
+    - TB16D	 confidence: 83.1145
+    - 1B06D	 confidence: 82.5422
+    - IB16D	 confidence: 81.1847
+    - 1816D	 confidence: 80.8461
+    - 1B1BD	 confidence: 78.4581
+    - 1BD6D	 confidence: 77.7859
+    - 1B1SD	 confidence: 77.7469
+    - 1BQ6D	 confidence: 76.6835
+./LocalTime[20180928111530326].jpg
+plate0: 8 results
+    - 2492	 confidence: 82.5688
+    - 24Q2	 confidence: 74.0344
+    - 24B2	 confidence: 73.8162
+    - 24S2	 confidence: 70.9484
+    - Z492	 confidence: 59.2832
+    - Z4Q2	 confidence: 50.7487
+    - Z4B2	 confidence: 50.5306
+    - Z4S2	 confidence: 47.6628
+plate1: 2 results
+    - TAS979	 confidence: 90.9659
+    - TA5979	 confidence: 83.3499
+./LocalTime[20180928111706971].jpg
+plate0: 10 results
+    - 202K3	 confidence: 86.7675
+    - 212K3	 confidence: 86.075
+    - 202K	 confidence: 82.3411
+    - 2D2K3	 confidence: 82.0478
+    - 212K	 confidence: 81.6485
+    - 2Q2K3	 confidence: 80.5437
+    - 2B2K3	 confidence: 79.9977
+    - 2D2K	 confidence: 77.6213
+    - 22K3	 confidence: 77.5922
+    - 2Q2K	 confidence: 76.1173
+./LocalTime[20180928112017728]_0.jpg
+plate0: 10 results
+    - 202K	 confidence: 82.7139
+    - 202K3	 confidence: 81.2495
+    - 2D2K	 confidence: 80.2204
+    - 202K1	 confidence: 79.2439
+    - 2D2K3	 confidence: 78.756
+    - 202K31	 confidence: 77.7795
+    - 202KE	 confidence: 77.2122
+    - 2D2K1	 confidence: 76.7503
+    - 202K3E	 confidence: 75.7478
+    - 2D2K31	 confidence: 75.2859
+./LocalTime[20180928112439301].jpg
+plate0: 10 results
+    - B095	 confidence: 82.7253
+    - 8095	 confidence: 75.885
+    - BD95	 confidence: 59.8708
+    - BB95	 confidence: 53.2382
+    - 8D95	 confidence: 53.0305
+    - BQ95	 confidence: 50.539
+    - BU95	 confidence: 49.546
+    - 8B95	 confidence: 46.3979
+    - BG95	 confidence: 46.1836
+    - 8Q95	 confidence: 43.6987
+plate1: 10 results
+    - 13K5	 confidence: 84.4717
+    - 113K5	 confidence: 83.8182
+    - 1H3K5	 confidence: 78.7662
+    - 103K5	 confidence: 75.4569
+    - 1U3K5	 confidence: 75.2201
+    - 1R3K5	 confidence: 75.0788
+    - 1Q3K5	 confidence: 74.7693
+    - 1N3K5	 confidence: 74.7313
+    - 1D3K5	 confidence: 74.574
+    - 1SK5	 confidence: 67.9362
+./LocalTime[20180928112644322].jpg
+plate0: 7 results
+    - 113K5	 confidence: 84.9322
+    - 11K5	 confidence: 76.1193
+    - 113KB	 confidence: 69.0981
+    - 113K	 confidence: 67.4942
+    - 113KS	 confidence: 67.3073
+    - 11KB	 confidence: 60.2852
+    - 11KS	 confidence: 58.4944
+plate1: 10 results
+    - 9B2H7	 confidence: 87.8017
+    - 962H7	 confidence: 87.3807
+    - 9G2H7	 confidence: 87.0979
+    - 9S2H7	 confidence: 81.0436
+    - 92H7	 confidence: 78.112
+    - SB2H7	 confidence: 78.0885
+    - S62H7	 confidence: 77.6675
+    - SG2H7	 confidence: 77.3848
+    - BB2H7	 confidence: 74.6263
+    - B62H7	 confidence: 74.2054
+./LocalTime[20180928112838077].jpg
+plate0: 10 results
+    - 1782B7	 confidence: 87.3578
+    - 782B7	 confidence: 81.9497
+    - 17B2B7	 confidence: 78.8423
+    - 178287	 confidence: 76.9347
+    - 1782R7	 confidence: 73.6731
+    - 7B2B7	 confidence: 73.4342
+    - 17Q2B7	 confidence: 72.8355
+    - 178ZB7	 confidence: 72.501
+    - 172B7	 confidence: 72.413
+    - 78287	 confidence: 71.5266
+plate1: 10 results
+    - 4115D	 confidence: 87.0895
+    - 415D	 confidence: 84.6626
+    - 4D15D	 confidence: 81.4597
+    - 4H15D	 confidence: 79.8047
+    - 4R15D	 confidence: 79.1623
+    - 41I5D	 confidence: 75.2603
+    - 4I5D	 confidence: 72.8334
+    - 4D5D	 confidence: 71.3593
+    - 115D	 confidence: 70.1161
+    - 4115B	 confidence: 70.0641
+plate2: 10 results
+    - 8099D	 confidence: 89.9501
+    - 809SD	 confidence: 82.0841
+    - 80S9D	 confidence: 80.3579
+    - B099D	 confidence: 80.2208
+    - 8D99D	 confidence: 78.0547
+    - 809BD	 confidence: 77.5926
+    - 80990	 confidence: 77.0716
+    - 809D	 confidence: 76.9656
+    - 8099B	 confidence: 75.7449
+    - 8B99D	 confidence: 74.8172
+plate3: 10 results
+    - 379YM	 confidence: 86.0832
+    - 379YH	 confidence: 84.6253
+    - 37SYM	 confidence: 75.8607
+    - 379YN	 confidence: 75.7224
+    - 379Y	 confidence: 75.0246
+    - 37SYH	 confidence: 74.4028
+    - 37BYM	 confidence: 72.5792
+    - 79YM	 confidence: 71.382
+    - S79YM	 confidence: 71.2592
+    - 37BYH	 confidence: 71.1213
+./LocalTime[20180928113116130].jpg
+plate0: 10 results
+    - 1G63K2	 confidence: 81.4258
+    - 11G63K2	 confidence: 80.1909
+    - 1563K2	 confidence: 78.1426
+    - 1663K2	 confidence: 78.0548
+    - 11563K2	 confidence: 76.9076
+    - 11663K2	 confidence: 76.8199
+    - 163K2	 confidence: 76.6583
+    - E1G63K2	 confidence: 76.0573
+    - 1863K2	 confidence: 75.9228
+    - 1S63K2	 confidence: 75.8403
+plate1: 10 results
+    - TDF39	 confidence: 85.7609
+    - TDF3	 confidence: 73.6132
+    - TDP39	 confidence: 72.03
+    - TD39	 confidence: 70.4483
+    - TBF39	 confidence: 70.4319
+    - T0F39	 confidence: 69.5967
+    - TF39	 confidence: 64.4423
+    - TDP3	 confidence: 59.8823
+    - TBF3	 confidence: 58.2842
+    - T0F3	 confidence: 57.449
+./LocalTime[20180928113732114].jpg
+No license plates found.
+./LocalTime[20180928113823459].jpg
+plate0: 8 results
+    - TAK775	 confidence: 90.3163
+    - TA775	 confidence: 81.4607
+    - TAK77B	 confidence: 81.3604
+    - TAK77S	 confidence: 79.9277
+    - TAK77	 confidence: 79.6254
+    - TA77B	 confidence: 72.5047
+    - TA77S	 confidence: 71.072
+    - TA77	 confidence: 70.7697
+./LocalTime[20180928114036027].jpg
+plate0: 10 results
+    - 5B5C1	 confidence: 83.6884
+    - 5B5C	 confidence: 81.8068
+    - 45B5C1	 confidence: 78.5194
+    - 15B5C1	 confidence: 76.8077
+    - 45B5C	 confidence: 76.6378
+    - W5B5C1	 confidence: 75.3149
+    - D5B5C1	 confidence: 75.2645
+    - 15B5C	 confidence: 74.9261
+    - E5B5C1	 confidence: 74.7185
+    - N5B5C1	 confidence: 74.4185
+./LocalTime[20180928115414029].jpg
+plate0: 10 results
+    - TAU39Z	 confidence: 87.3681
+    - TAU392	 confidence: 84.418
+    - TA039Z	 confidence: 77.1411
+    - TAD39Z	 confidence: 76.9911
+    - TA0392	 confidence: 74.191
+    - TAD392	 confidence: 74.041
+    - TAQ39Z	 confidence: 73.1645
+    - TA39Z	 confidence: 72.4824
+    - TAB39Z	 confidence: 71.5761
+    - TAQ392	 confidence: 70.2144
+./LocalTime[20180928120627824].jpg
+plate0: 4 results
+    - TAV566	 confidence: 87.3941
+    - TAVS66	 confidence: 79.4914
+    - TAV66	 confidence: 77.3251
+    - TAVG66	 confidence: 75.9663
+plate1: 10 results
+    - 19618KB	 confidence: 87.1456
+    - 9618KB	 confidence: 84.888
+    - W9618KB	 confidence: 84.0045
+    - 19G18KB	 confidence: 83.8468
+    - 19618KE	 confidence: 83.8053
+    - 19B18KB	 confidence: 81.6296
+    - 9G18KB	 confidence: 81.5892
+    - 9618KE	 confidence: 81.5476
+    - 19S18KB	 confidence: 81.27
+    - 19618K8	 confidence: 80.9131
+plate2: 10 results
+    - 179NJ	 confidence: 86.5227
+    - 178NJ	 confidence: 86.093
+    - 17SNJ	 confidence: 85.5195
+    - 17BNJ	 confidence: 85.0189
+    - 17NJ	 confidence: 81.7991
+    - 179HJ	 confidence: 65.565
+    - 178HJ	 confidence: 65.1353
+    - 17SHJ	 confidence: 64.5617
+    - 17BHJ	 confidence: 64.0611
+    - 17HJ	 confidence: 60.8414
+./LocalTime[20180928120745577].jpg
+plate0: 10 results
+    - TD66	 confidence: 79.6159
+    - DD66	 confidence: 66.9606
+    - TB66	 confidence: 64.2742
+    - TDD66	 confidence: 63.2109
+    - DW66	 confidence: 60.5773
+    - D866	 confidence: 60.1551
+    - D166	 confidence: 59.9844
+    - T066	 confidence: 59.9124
+    - DN66	 confidence: 59.6528
+    - Dc66	 confidence: 59.3307
+./LocalTime[20180928121225635].jpg
+plate0: 10 results
+    - 11A313	 confidence: 83.9167
+    - D1A313	 confidence: 83.9161
+    - 1A313	 confidence: 83.0181
+    - 111A313	 confidence: 81.5758
+    - 1D1A313	 confidence: 81.5752
+    - 01A313	 confidence: 81.346
+    - B1A313	 confidence: 81.1876
+    - W11A313	 confidence: 81.16
+    - WD1A313	 confidence: 81.1594
+    - ]11A313	 confidence: 81.0521
+plate1: 10 results
+    - 6691	 confidence: 81.9769
+    - B6691	 confidence: 78.4494
+    - G6691	 confidence: 77.1869
+    - 16691	 confidence: 75.3712
+    - D6691	 confidence: 73.8451
+    - B16691	 confidence: 71.8437
+    - 06691	 confidence: 71.3832
+    - R6691	 confidence: 71.3238
+    - Q6691	 confidence: 71.1087
+    - G16691	 confidence: 70.5812
+plate2: 10 results
+    - TAV566	 confidence: 89.8737
+    - TAVS66	 confidence: 80.0334
+    - TAVB66	 confidence: 79.1156
+    - TAv566	 confidence: 77.6093
+    - TAV66	 confidence: 77.3947
+    - TA566	 confidence: 73.2989
+    - TAvS66	 confidence: 67.7691
+    - TAvB66	 confidence: 66.8512
+    - TAv66	 confidence: 65.1303
+    - TAS66	 confidence: 63.4587
+./LocalTime[20180928121352592].jpg
+plate0: 10 results
+    - D1DA	 confidence: 82.0887
+    - B1DA	 confidence: 81.2428
+    - 01DA	 confidence: 78.1262
+    - Q1DA	 confidence: 76.7432
+    - R1DA	 confidence: 76.3209
+    - D11A	 confidence: 66.7017
+    - B11A	 confidence: 65.8558
+    - D1BA	 confidence: 63.617
+    - B1BA	 confidence: 62.7711
+    - 011A	 confidence: 62.7392
+plate1: 10 results
+    - H36BB	 confidence: 88.6587
+    - H36B8	 confidence: 85.2469
+    - H368B	 confidence: 76.3479
+    - R36BB	 confidence: 74.1953
+    - H3688	 confidence: 72.9361
+    - H36BS	 confidence: 72.9187
+    - H6BB	 confidence: 72.5772
+    - H36BG	 confidence: 72.3731
+    - H36B	 confidence: 72.0224
+    - R36B8	 confidence: 70.7835
+plate2: 10 results
+    - 1DH6691	 confidence: 85.8236
+    - 1DH669D	 confidence: 79.0639
+    - 1D6691	 confidence: 78.6222
+    - 1DH669	 confidence: 78.5757
+    - DH6691	 confidence: 77.8943
+    - 1DH669B	 confidence: 77.6066
+    - 1DH6690	 confidence: 77.4796
+    - 1DH669Q	 confidence: 77.0119
+    - IDH6691	 confidence: 76.9292
+    - 1DR6691	 confidence: 76.146
+plate3: 2 results
+    - A7313	 confidence: 88.31
+    - 7313	 confidence: 74.4556
+./LocalTime[20180928121811258].jpg
+plate0: 10 results
+    - 1TAT113	 confidence: 85.4568
+    - 1TAT13	 confidence: 75.9832
+    - 1TATW13	 confidence: 75.9056
+    - 1AT113	 confidence: 74.2458
+    - 1TAT11	 confidence: 73.9087
+    - 1IAT113	 confidence: 72.9694
+    - 1TAT11S	 confidence: 72.3337
+    - 1AT13	 confidence: 64.7722
+    - 1ATW13	 confidence: 64.6946
+    - 1TAT1	 confidence: 64.4351
+./LocalTime[20180928122013216].jpg
+No license plates found.
+./LocalTime[20180928122245363].jpg
+plate0: 3 results
+    - T931	 confidence: 78.8074
+    - T93A	 confidence: 70.637
+    - T93J	 confidence: 70.4725
+./LocalTime[20180928122330849].jpg
+plate0: 10 results
+    - 421BD	 confidence: 87.3084
+    - 4218D	 confidence: 85.6951
+    - 421QD	 confidence: 77.4712
+    - 421D	 confidence: 74.8138
+    - 421B0	 confidence: 74.4108
+    - 42180	 confidence: 72.7976
+    - 4Z1BD	 confidence: 72.067
+    - 421BB	 confidence: 70.9728
+    - 41BD	 confidence: 70.97
+    - 4Z18D	 confidence: 70.4538
+./LocalTime[20180928122651654].jpg
+plate0: 10 results
+    - 7552G	 confidence: 88.7384
+    - 7552	 confidence: 79.2156
+    - 7552B	 confidence: 77.8792
+    - 75526	 confidence: 77.3134
+    - 75S2G	 confidence: 76.7915
+    - 7552Q	 confidence: 76.7271
+    - 7552C	 confidence: 74.2857
+    - 7552S	 confidence: 73.871
+    - 752G	 confidence: 73.7909
+    - 7552c	 confidence: 73.6852
+./LocalTime[20180928122738484].jpg
+plate0: 10 results
+    - 4496D1	 confidence: 84.6025
+    - 496D1	 confidence: 84.43
+    - 4496D	 confidence: 83.5329
+    - 496D	 confidence: 83.3604
+    - 4496DD	 confidence: 82.193
+    - 496DD	 confidence: 82.0205
+    - 4D96D1	 confidence: 79.845
+    - 4496D0	 confidence: 79.8375
+    - 496D0	 confidence: 79.665
+    - 4496DB	 confidence: 79.607
+plate1: 4 results
+    - DTDH	 confidence: 76.6019
+    - BTDH	 confidence: 74.3992
+    - 0TDH	 confidence: 74.2329
+    - QTDH	 confidence: 73.1146
+./LocalTime[20180928123105789].jpg
+plate0: 10 results
+    - APN8615	 confidence: 88.9579
+    - APNB615	 confidence: 86.4953
+    - APH8615	 confidence: 81.2975
+    - APHB615	 confidence: 78.8349
+    - APN861S	 confidence: 78.5803
+    - APM8615	 confidence: 77.7228
+    - APNB61S	 confidence: 76.1177
+    - APN861B	 confidence: 75.9943
+    - APN861	 confidence: 75.6998
+    - APMB615	 confidence: 75.2602
+./LocalTime[20180928123135290].jpg
+plate0: 10 results
+    - APNB615	 confidence: 87.6197
+    - APN8615	 confidence: 84.7845
+    - APNR615	 confidence: 83.8473
+    - APNQ615	 confidence: 83.6617
+    - APN615	 confidence: 82.781
+    - APHB615	 confidence: 79.9187
+    - APNB61B	 confidence: 78.9934
+    - APNB61S	 confidence: 78.7748
+    - APRB615	 confidence: 77.87
+    - APNB61	 confidence: 77.2679
+plate1: 10 results
+    - 7E313	 confidence: 85.7875
+    - 7E33	 confidence: 74.9158
+    - 7E3I3	 confidence: 73.1595
+    - 7E31	 confidence: 72.8856
+    - 7E13	 confidence: 72.7769
+    - 7E31B	 confidence: 71.5138
+    - 7EB13	 confidence: 70.8067
+    - 7ES13	 confidence: 70.5431
+    - 7E31S	 confidence: 70.3251
+    - 7E3B	 confidence: 60.6421
+plate2: 10 results
+    - 1576B5	 confidence: 86.5184
+    - 576B5	 confidence: 80.984
+    - 176B5	 confidence: 77.1438
+    - 157685	 confidence: 76.0207
+    - 157GB5	 confidence: 75.5188
+    - 1S76B5	 confidence: 75.293
+    - 157SB5	 confidence: 75.0632
+    - 1B76B5	 confidence: 74.7477
+    - 157BB5	 confidence: 74.6562
+    - 1576BS	 confidence: 71.9406
+plate3: 10 results
+    - RCA75BZ	 confidence: 88.7703
+    - RCA758Z	 confidence: 81.6826
+    - BCA75BZ	 confidence: 80.7961
+    - CA75BZ	 confidence: 80.7556
+    - RCA7SBZ	 confidence: 80.3443
+    - RCA75B2	 confidence: 79.1815
+    - 8CA75BZ	 confidence: 79.0436
+    - RCA7BBZ	 confidence: 78.9388
+    - RcA75BZ	 confidence: 78.8623
+    - RCA7BZ	 confidence: 77.9032
+./LocalTime[20180928123303606].jpg
+plate0: 10 results
+    - DDZ99	 confidence: 85.667
+    - DDZ9	 confidence: 82.4027
+    - D0Z99	 confidence: 81.605
+    - D0Z9	 confidence: 78.3406
+    - DBZ99	 confidence: 75.1668
+    - DQZ99	 confidence: 73.2834
+    - DGZ99	 confidence: 72.582
+    - DBZ9	 confidence: 71.9025
+    - 0DZ99	 confidence: 71.0707
+    - DQZ9	 confidence: 70.0191
+plate1: 10 results
+    - 1792G	 confidence: 84.5604
+    - 792G	 confidence: 75.246
+    - 17B2G	 confidence: 72.6411
+    - 1792	 confidence: 72.5368
+    - 17S2G	 confidence: 71.1892
+    - 172G	 confidence: 70.1211
+    - 1792B	 confidence: 69.7528
+    - 192G	 confidence: 68.968
+    - 1792Q	 confidence: 68.5265
+    - 17926	 confidence: 68.2592
+./LocalTime[20180928123325717].jpg
+plate0: 10 results
+    - 505C	 confidence: 83.3711
+    - 505CB	 confidence: 79.6312
+    - 505C0	 confidence: 78.4867
+    - 505CD	 confidence: 78.4862
+    - 505CQ	 confidence: 77.7502
+    - 50T5C	 confidence: 76.1708
+    - 50T5CB	 confidence: 72.4309
+    - 5D5C	 confidence: 71.5105
+    - 50T5C0	 confidence: 71.2864
+    - 50T5CD	 confidence: 71.2859
+plate1: 10 results
+    - 1792G	 confidence: 81.7098
+    - 792G	 confidence: 80.2153
+    - 1792GB	 confidence: 79.3592
+    - 1792GE	 confidence: 79.2236
+    - 792GB	 confidence: 77.8647
+    - 792GE	 confidence: 77.7292
+    - 1792GW	 confidence: 76.9799
+    - 1792G1	 confidence: 76.9627
+    - 1792G0	 confidence: 76.4512
+    - 1792GM	 confidence: 76.0559
+./LocalTime[20180928123815119].jpg
+plate0: 10 results
+    - 232D3	 confidence: 86.845
+    - 239D3	 confidence: 76.9535
+    - 23D3	 confidence: 76.6397
+    - 22D3	 confidence: 76.329
+    - 2S2D3	 confidence: 74.528
+    - 232DB	 confidence: 73.2346
+    - 2B2D3	 confidence: 73.2326
+    - 232D	 confidence: 72.5988
+    - 232B3	 confidence: 71.4308
+    - 23203	 confidence: 69.0722
+./LocalTime[20180928123839385].jpg
+plate0: 10 results
+    - B01E51	 confidence: 84.8279
+    - BD1E51	 confidence: 81.3061
+    - 801E51	 confidence: 79.4318
+    - B01E5	 confidence: 77.3326
+    - B0E51	 confidence: 76.8791
+    - 8D1E51	 confidence: 75.91
+    - BQ1E51	 confidence: 74.8662
+    - BB1E51	 confidence: 74.1966
+    - BD1E5	 confidence: 73.8108
+    - BDE51	 confidence: 73.3573
+plate1: 10 results
+    - 2G0YL	 confidence: 91.0892
+    - 260YL	 confidence: 90.9271
+    - 2B0YL	 confidence: 90.4529
+    - 2S0YL	 confidence: 86.3334
+    - 2R0YL	 confidence: 82.0929
+    - 20YL	 confidence: 82.0673
+    - 2GDYL	 confidence: 79.2694
+    - 26DYL	 confidence: 79.1073
+    - 2BDYL	 confidence: 78.6331
+    - 2GQYL	 confidence: 77.1783
+./LocalTime[20180928124327741].jpg
+plate0: 10 results
+    - TAPZ03	 confidence: 91.012
+    - TAPZD3	 confidence: 87.8669
+    - TAP203	 confidence: 84.0943
+    - TAPZQ3	 confidence: 81.9766
+    - TAPZB3	 confidence: 81.8042
+    - TAP2D3	 confidence: 80.9492
+    - TAPZG3	 confidence: 78.7102
+    - TAPZU3	 confidence: 78.4575
+    - TAPZ3	 confidence: 77.5403
+    - TAP2Q3	 confidence: 75.0589
+plate1: 10 results
+    - FB116	 confidence: 90.1739
+    - FB16	 confidence: 85.7218
+    - FBD16	 confidence: 81.7903
+    - FB016	 confidence: 79.9744
+    - FBQ16	 confidence: 79.5453
+    - FBB16	 confidence: 79.4594
+    - F8116	 confidence: 79.2056
+    - FBU16	 confidence: 79.1044
+    - FBG16	 confidence: 78.9582
+    - F816	 confidence: 74.7536
+plate2: 4 results
+    - A8B93	 confidence: 90.1944
+    - A8893	 confidence: 86.2405
+    - ABB93	 confidence: 73.8135
+    - AB893	 confidence: 69.8596
+plate3: 10 results
+    - TD185Z	 confidence: 90.171
+    - TD1B5Z	 confidence: 89.7761
+    - TD18SZ	 confidence: 82.2127
+    - TD1BSZ	 confidence: 81.8179
+    - TD1Q5Z	 confidence: 81.2286
+    - TD15Z	 confidence: 81.0298
+    - TD18BZ	 confidence: 80.3658
+    - TD1852	 confidence: 80.0453
+    - TD1BBZ	 confidence: 79.971
+    - TD1B52	 confidence: 79.6505
+plate4: 3 results
+    - TAL357	 confidence: 93.0719
+    - TAL3S7	 confidence: 81.0546
+    - TAL37	 confidence: 78.3206
+./LocalTime[20180928124411977].jpg
+plate0: 10 results
+    - 5185	 confidence: 83.3086
+    - 15185	 confidence: 82.5024
+    - 115185	 confidence: 81.2338
+    - B5185	 confidence: 79.8694
+    - 1B5185	 confidence: 78.6008
+    - D5185	 confidence: 77.9706
+    - Q5185	 confidence: 77.2682
+    - R5185	 confidence: 77.0627
+    - 85185	 confidence: 76.8375
+    - 1D5185	 confidence: 76.702
+./LocalTime[20180928124458963].jpg
+plate0: 10 results
+    - BZD3	 confidence: 84.84
+    - 8ZD3	 confidence: 81.8169
+    - LBZD3	 confidence: 79.5082
+    - L8ZD3	 confidence: 76.4851
+    - LZD3	 confidence: 74.0039
+    - BZ03	 confidence: 71.1712
+    - BZB3	 confidence: 68.7021
+    - 8Z03	 confidence: 68.1481
+    - BZQ3	 confidence: 66.5264
+    - LBZ03	 confidence: 65.8393
+plate1: 10 results
+    - TA53B6	 confidence: 88.522
+    - TAS3B6	 confidence: 81.4489
+    - TA5386	 confidence: 81.2152
+    - TAB3B6	 confidence: 76.8671
+    - TA3B6	 confidence: 76.6414
+    - TA53Q6	 confidence: 75.5981
+    - TA536	 confidence: 74.9259
+    - TAS386	 confidence: 74.1421
+    - TAB386	 confidence: 69.5603
+    - TA386	 confidence: 69.3346
+./LocalTime[20180928125017023].jpg
+plate0: 10 results
+    - 6Z18	 confidence: 82.0846
+    - D6Z8	 confidence: 81.1422
+    - B6Z8	 confidence: 79.2738
+    - 06Z8	 confidence: 79.0002
+    - D6Z18	 confidence: 75.5734
+    - B6Z18	 confidence: 73.705
+    - 06Z18	 confidence: 73.4314
+    - 6Z1B	 confidence: 69.2639
+    - D6ZB	 confidence: 68.3215
+    - B6ZB	 confidence: 66.4531
+./LocalTime[20180928125422673].jpg
+plate0: 10 results
+    - 7B2B7	 confidence: 89.556
+    - 782B7	 confidence: 79.2881
+    - 7B287	 confidence: 77.5265
+    - 7B2R7	 confidence: 73.8829
+    - 7Q2B7	 confidence: 72.492
+    - 7R2B7	 confidence: 72.1422
+    - 72B7	 confidence: 71.4672
+    - 7B27	 confidence: 70.7599
+    - 78287	 confidence: 67.2587
+    - 782R7	 confidence: 63.615
+./LocalTime[20180928125516941].jpg
+plate0: 10 results
+    - 6889D	 confidence: 89.2481
+    - 68B9D	 confidence: 80.0727
+    - B889D	 confidence: 80.0061
+    - G889D	 confidence: 79.9279
+    - 6B89D	 confidence: 79.2842
+    - 688SD	 confidence: 78.8035
+    - S889D	 confidence: 78.5032
+    - 688BD	 confidence: 76.9998
+    - 68890	 confidence: 76.2276
+    - 688D	 confidence: 74.7462
+./LocalTime[20180928125608787].jpg
+plate0: 10 results
+    - 895K3	 confidence: 85.8272
+    - B95K3	 confidence: 81.6468
+    - G95K3	 confidence: 80.5125
+    - 695K3	 confidence: 79.3697
+    - S95K3	 confidence: 78.3704
+    - 95K3	 confidence: 75.4675
+    - 895K	 confidence: 75.2176
+    - 8B5K3	 confidence: 73.8599
+    - 895KS	 confidence: 73.065
+    - 895KB	 confidence: 72.6134
+./LocalTime[20180928125655132].jpg
+plate0: 10 results
+    - 6B891	 confidence: 86.5865
+    - 6BB91	 confidence: 83.9255
+    - 6B91	 confidence: 79.2792
+    - 6891	 confidence: 77.5461
+    - 6B89D	 confidence: 77.2134
+    - 68891	 confidence: 76.4797
+    - 6BQ91	 confidence: 75.5745
+    - 6BG91	 confidence: 75.2688
+    - 6BB9D	 confidence: 74.5525
+    - 6BS91	 confidence: 74.4749
+plate1: 10 results
+    - 1895K	 confidence: 80.1222
+    - 895K	 confidence: 78.7041
+    - 1895K3	 confidence: 78.311
+    - 895K3	 confidence: 76.8929
+    - 185K	 confidence: 72.4388
+    - 18B5K	 confidence: 71.1381
+    - 185K3	 confidence: 70.6276
+    - 1B95K	 confidence: 70.4833
+    - 18S5K	 confidence: 70.4616
+    - 18Q5K	 confidence: 70.1615
+plate2: 10 results
+    - A80Z	 confidence: 90.8708
+    - A802	 confidence: 84.4942
+    - A8DZ	 confidence: 77.0786
+    - AB0Z	 confidence: 76.1633
+    - A8BZ	 confidence: 73.1632
+    - A8QZ	 confidence: 73.1165
+    - A8D2	 confidence: 70.7021
+    - AB02	 confidence: 69.7868
+    - A8B2	 confidence: 66.7866
+    - A8Q2	 confidence: 66.7399
+./LocalTime[20180928130310257].jpg
+No license plates found.
+./LocalTime[20180928130427994].jpg
+plate0: 10 results
+    - 11DH5196	 confidence: 80.8592
+    - J1DH5196	 confidence: 80.8344
+    - 1DH5196	 confidence: 80.0272
+    - 11DH596	 confidence: 78.801
+    - J1DH596	 confidence: 78.7762
+    - 1DH596	 confidence: 77.969
+    - JDH5196	 confidence: 76.2454
+    - DH5196	 confidence: 75.4382
+    - 1IDH5196	 confidence: 74.8231
+    - JIDH5196	 confidence: 74.7983
+plate1: 10 results
+    - 1649BB	 confidence: 86.2857
+    - 1649B8	 confidence: 82.9068
+    - 164SBB	 confidence: 79.1378
+    - 164QBB	 confidence: 78.3882
+    - 1G49BB	 confidence: 77.4816
+    - 164BBB	 confidence: 76.9735
+    - 164BB	 confidence: 76.8912
+    - 1B49BB	 confidence: 76.7733
+    - 1S49BB	 confidence: 75.7795
+    - 164SB8	 confidence: 75.7589
+plate2: 10 results
+    - 909YL	 confidence: 91.2612
+    - 909Y	 confidence: 86.3333
+    - S09YL	 confidence: 82.7444
+    - B09YL	 confidence: 80.9879
+    - Q09YL	 confidence: 79.7078
+    - 09YL	 confidence: 79.6122
+    - 9D9YL	 confidence: 78.8936
+    - 909YU	 confidence: 78.5966
+    - S09Y	 confidence: 77.8165
+    - 90BYL	 confidence: 77.6161
+./LocalTime[20180928130636812].jpg
+No license plates found.
+./LocalTime[20180928130925163].jpg
+plate0: 10 results
+    - 771K3	 confidence: 81.2716
+    - 71K3	 confidence: 80.1944
+    - 771K	 confidence: 73.6427
+    - 7T1K3	 confidence: 72.99
+    - 770K3	 confidence: 70.3403
+    - T71K3	 confidence: 69.5749
+    - 70K3	 confidence: 69.2631
+    - T1K3	 confidence: 68.4977
+    - 7T1K	 confidence: 65.3611
+    - 77DK3	 confidence: 64.9144
+./LocalTime[20180928131333282].jpg
+plate0: 10 results
+    - 213L2	 confidence: 89.5212
+    - 21L2	 confidence: 82.2375
+    - 21SL2	 confidence: 77.6201
+    - 21BL2	 confidence: 76.8566
+    - 2132	 confidence: 74.413
+    - 213D2	 confidence: 72.4115
+    - 21D2	 confidence: 65.1277
+    - 21S2	 confidence: 62.5119
+    - 21B2	 confidence: 61.7484
+    - 21SD2	 confidence: 60.5104
+./LocalTime[20180928132118238].jpg
+plate0: 10 results
+    - DD7B1B	 confidence: 85.9465
+    - 3DD7B1B	 confidence: 85.318
+    - DD7B18	 confidence: 83.3055
+    - 3DD7B18	 confidence: 82.6769
+    - D7B1B	 confidence: 79.8763
+    - 3D7B1B	 confidence: 79.2478
+    - D07B1B	 confidence: 78.6378
+    - 0D7B1B	 confidence: 78.5371
+    - DD781B	 confidence: 78.0857
+    - 3D07B1B	 confidence: 78.0093
+plate1: 10 results
+    - 1962H7	 confidence: 84.7528
+    - 19B2H7	 confidence: 83.104
+    - 962H7	 confidence: 82.1417
+    - 9B2H7	 confidence: 80.493
+    - 1B62H7	 confidence: 80.0161
+    - 19G2H7	 confidence: 79.4798
+    - 19S2H7	 confidence: 78.4931
+    - 1BB2H7	 confidence: 78.3673
+    - B62H7	 confidence: 77.405
+    - 9G2H7	 confidence: 76.8687
+./LocalTime[20180928132451387].jpg
+plate0: 10 results
+    - 162H7	 confidence: 88.3875
+    - 62H7	 confidence: 86.2576
+    - W62H7	 confidence: 85.5445
+    - 167H7	 confidence: 75.4567
+    - 1B2H7	 confidence: 74.1295
+    - 67H7	 confidence: 73.3268
+    - 16H7	 confidence: 73.0724
+    - W67H7	 confidence: 72.6137
+    - 1S2H7	 confidence: 72.1511
+    - B2H7	 confidence: 71.9996
+plate1: 5 results
+    - T91D	 confidence: 84.0488
+    - T91Z	 confidence: 78.6375
+    - T912	 confidence: 74.9382
+    - T91ZD	 confidence: 74.3937
+    - T912D	 confidence: 70.6944
+plate2: 10 results
+    - D22NC	 confidence: 90.7557
+    - 022NC	 confidence: 87.5275
+    - D22Nc	 confidence: 81.0263
+    - Q22NC	 confidence: 80.8965
+    - B22NC	 confidence: 80.503
+    - D22ND	 confidence: 79.111
+    - 022Nc	 confidence: 77.7981
+    - G22NC	 confidence: 77.5298
+    - D22NG	 confidence: 77.3102
+    - D22N0	 confidence: 77.188
+plate3: 10 results
+    - TDA13B0	 confidence: 90.0913
+    - QTDA13B0	 confidence: 89.3576
+    - DTDA13B0	 confidence: 87.942
+    - TDA1380	 confidence: 87.4096
+    - QTDA1380	 confidence: 86.6759
+    - DTDA1380	 confidence: 85.2604
+    - TDA13B1	 confidence: 84.575
+    - TDAD3B0	 confidence: 84.257
+    - TDA13BD	 confidence: 84.1388
+    - QTDA13B1	 confidence: 83.8413
+./LocalTime[20180928132755207].jpg
+No license plates found.
+./LocalTime[20180928133022213].jpg
+No license plates found.
+./LocalTime[20180928133402362].jpg
+plate0: 10 results
+    - 4218D	 confidence: 89.8932
+    - 421BD	 confidence: 86.2535
+    - 421QD	 confidence: 80.2653
+    - 42180	 confidence: 77.4249
+    - 421D	 confidence: 76.7616
+    - 42T8D	 confidence: 76.25
+    - 428D	 confidence: 75.3971
+    - 4218B	 confidence: 75.0494
+    - 4218Q	 confidence: 74.2354
+    - 421B0	 confidence: 73.7852
+./LocalTime[20180928134310572].jpg
+No license plates found.
+./LocalTime[20180928134629908].jpg
+No license plates found.
+./LocalTime[20180928134825444].jpg
+No license plates found.
+./LocalTime[20180928135229704].jpg
+plate0: 10 results
+    - RDZ99	 confidence: 81.2279
+    - RZ99	 confidence: 78.0357
+    - DZ99	 confidence: 75.5978
+    - RD799	 confidence: 75.3955
+    - RDDZ99	 confidence: 74.9114
+    - RD299	 confidence: 74.8546
+    - R0Z99	 confidence: 74.7338
+    - HDZ99	 confidence: 74.3088
+    - RBZ99	 confidence: 74.0994
+    - DDZ99	 confidence: 73.5024
+./LocalTime[20180928135348629].jpg
+No license plates found.
+./LocalTime[20180928135813530].jpg
+plate0: 10 results
+    - 1BBGK3	 confidence: 84.663
+    - 1BB8K3	 confidence: 84.5038
+    - 1B8GK3	 confidence: 81.7464
+    - 1B88K3	 confidence: 81.5872
+    - 1BBSK3	 confidence: 80.995
+    - 1BBBK3	 confidence: 80.9122
+    - 1BBGK	 confidence: 79.7005
+    - 1BB8K	 confidence: 79.5413
+    - 1BSGK3	 confidence: 78.4365
+    - 1BS8K3	 confidence: 78.2773
+./LocalTime[20180928135854031].jpg
+plate0: 10 results
+    - D93X	 confidence: 84.6929
+    - D93Z	 confidence: 80.9558
+    - D93ZX	 confidence: 71.9819
+    - D93XX	 confidence: 71.2224
+    - 093X	 confidence: 67.4618
+    - B93X	 confidence: 64.1438
+    - 093Z	 confidence: 63.7247
+    - Q93X	 confidence: 60.7162
+    - B93Z	 confidence: 60.4067
+    - Q93Z	 confidence: 56.9791
+plate1: 6 results
+    - RAS1	 confidence: 85.267
+    - RA91	 confidence: 78.7021
+    - RA51	 confidence: 78.2475
+    - 8AS1	 confidence: 64.1213
+    - 8A91	 confidence: 57.5564
+    - 8A51	 confidence: 57.1017
+plate2: 10 results
+    - 858K	 confidence: 83.0308
+    - 868K	 confidence: 77.3224
+    - 85BK	 confidence: 77.0155
+    - 8B8K	 confidence: 76.9628
+    - 85GK	 confidence: 76.3948
+    - B58K	 confidence: 75.886
+    - 85SK	 confidence: 75.4878
+    - 8S8K	 confidence: 75.2232
+    - 858K3	 confidence: 74.4109
+    - Q58K	 confidence: 74.1218
+./LocalTime[20180928140039989].jpg
+plate0: 10 results
+    - 1TAJ31B	 confidence: 85.8393
+    - 1TA31B	 confidence: 80.4273
+    - 1TJ31B	 confidence: 79.1514
+    - 1TAJ318	 confidence: 78.5684
+    - 1TAU31B	 confidence: 76.333
+    - 1TA]31B	 confidence: 75.4819
+    - 1TA031B	 confidence: 75.1809
+    - 1TAQ31B	 confidence: 74.9059
+    - 1TAJ31	 confidence: 73.8188
+    - 1T31B	 confidence: 73.7394
+./LocalTime[20180928140407857].jpg
+plate0: 10 results
+    - 357L	 confidence: 87.5641
+    - 357L9	 confidence: 81.064
+    - 357L7	 confidence: 80.5562
+    - S57L	 confidence: 73.9185
+    - B57L	 confidence: 73.0551
+    - 57L9	 confidence: 68.4433
+    - 57L7	 confidence: 67.9355
+    - S57L9	 confidence: 67.4184
+    - S57L7	 confidence: 66.9106
+    - B57L9	 confidence: 66.555
+./LocalTime[20180928140441139].jpg
+plate0: 10 results
+    - 357L7	 confidence: 86.7607
+    - 357L	 confidence: 83.2878
+    - 3577	 confidence: 74.2328
+    - 57L7	 confidence: 73.6381
+    - S57L7	 confidence: 73.3691
+    - B57L7	 confidence: 70.834
+    - 357D7	 confidence: 70.8325
+    - S57L	 confidence: 69.8963
+    - B57L	 confidence: 67.3612
+    - 357D	 confidence: 67.3597
